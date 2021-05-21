@@ -23,11 +23,6 @@ function  Breakfast(food, drink) {
   let newlunch = new Lunch('side salad','broccoli cheddar soup','iced tea')
     newlunch.Lunch();
 
-
-
-
-
-
       function Dinner (salad,soup,entree,dessert) {
 
         this.salad = salad;
