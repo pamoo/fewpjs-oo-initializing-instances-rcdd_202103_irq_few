@@ -9,9 +9,6 @@ function  Breakfast(food, drink) {
   let bfast = new Breakfast('eggs', 'juice')
   bfast.Breakfast();
 
-
-
-
   function Lunch (salad,soup,drink) {
     this.salad=salad;
     this.soup=soup;
